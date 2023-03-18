@@ -13,3 +13,4 @@ permita criar registros de psicólogos, pacientes e prontuários."
 
 ## Documentação:
 
+Infelizmente não foi possivel gerar uma documentação por problemas com o banco de dados 😥😥😥
